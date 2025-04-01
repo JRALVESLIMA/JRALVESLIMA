@@ -8,7 +8,7 @@
 Estou em transição para a área de tecnologia após 12 anos na indústria. Atualmente, estudo Engenharia de Software e desenvolvo projetos práticos para aprimorar minhas habilidades.
 
 ## 🔹 Projetos Destacados  
-🛒 **Sistema de Estoque (Java + PostgreSQL)** - [Repositório](github.com/JRALVESLIMA/projetoEscolar)  
+🛒 **Sistema de Estoque (Java + PostgreSQL)** - [Repositório](https://github.com/JRALVESLIMA/projetoEscolar)  
 💡 Em breve, mais projetos no portfólio!  
 
 ---
