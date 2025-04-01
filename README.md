@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Junior Alves de Lima! 👋  
+🎓 Estudante de Engenharia de Software (5º semestre)  
+💻 Buscando oportunidade como Estagiário ou Desenvolvedor Júnior  
+🚀 Tecnologias: Java, C#, .NET, Kotlin, PostgreSQL, MySQL  
+🔗 [LinkedIn](https://www.linkedin.com/in/-junior-a-lima/) | [GitHub](https://github.com/JRALVESLIMA)
 
-<!--
-**JRALVESLIMA/JRALVESLIMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mim  
+Estou em transição para a área de tecnologia após 12 anos na indústria. Atualmente, estudo Engenharia de Software e desenvolvo projetos práticos para aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+## 🔹 Projetos Destacados  
+🛒 **Sistema de Estoque (Java + PostgreSQL)** - [Repositório](github.com/JRALVESLIMA/projetoEscolar)  
+💡 Em breve, mais projetos no portfólio!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+✉️ Me chame para conversar: junior_a.lima@hotmail.com
