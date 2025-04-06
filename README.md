@@ -1,4 +1,4 @@
-# Olá, eu sou o Junior Alves de Lima! 👋  
+# Olá, eu sou o Junior Alves! 👋  
 🎓 Estudante de Engenharia de Software (5º semestre)  
 💻 Buscando oportunidade como Estagiário ou Desenvolvedor Júnior  
 🚀 Tecnologias: Java, C#, .NET, Kotlin, PostgreSQL, MySQL  
