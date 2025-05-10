@@ -10,6 +10,7 @@ Estou em transição para a área de tecnologia após 12 anos na indústria. Atu
 ## 🔹 Projetos Destacados  
 🛒 **Sistema de Estoque (Java + PostgreSQL)** - [Repositório](https://github.com/JRALVESLIMA/projetoEscolar)  
 🖥️ **Front-End Simples de uma Lanchonete (HTML + CSS3 + JavaScript) - [Repositório](https://github.com/JRALVESLIMA/SiteEcommerce)
+
 💡 Em breve, mais projetos no portfólio!  
 
 ---
